@@ -1,0 +1,93 @@
+
+body { 
+	background-color: black;
+} 
+
+#title { 
+	color: white;
+	font-family: futura;
+	text-align: center;
+	font-size: 65px;
+	margin-right: 15px;
+}
+
+#grid { 
+	width: 500px;
+	margin: auto;
+	position: relative;
+	display: block;
+}
+
+.box { 
+	margin: 10px;
+	background-color: 222222;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	border-radius: 6px;
+}
+
+.red { 
+	background-color: #FF0003;
+}
+
+.blue { 
+	background-color: #001FFF;
+}
+
+.yellow { 
+	background-color: #FFEF00;
+}
+
+.purple { 
+	background-color: #6E1688;
+}
+
+.green { 
+	background-color: #308F2B;
+}
+
+.orange { 
+	background-color: #FF6100;
+}
+
+.brown { 
+	background-color: #73401F;
+}
+
+.black { 
+	background-color: black;
+	border-style: solid;
+	border-width: 2px;
+	border-color: white;
+}
+
+.white { 
+	background-color: white;
+}
+
+#scoreBoard { 
+	font-family: futura;
+	color: #939393;
+	font-size: 20;
+	text-align: center;
+}
+
+#credits { 
+	margin-top: 50px;
+	text-align: left;
+	margin-left: 30px;
+}
+
+#credits p { 
+	color: #939393;
+	font-family: futura;
+	font-size: 20px;
+}
+
+#credits a { 
+	text-decoration: none;
+}
+
+
+
